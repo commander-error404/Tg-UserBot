@@ -118,6 +118,6 @@ It gives full access to your Telegram account.
 
 ---
 
-## 📜 License
+## 📜 License 
 
-MIT License — free to use, modify and distribute.
+MIT License — free to use, modify and distribute. [MIT License]( https://github.com/commander-error404/Tg-UserBot/blob/main/LICENSE)
